@@ -6,7 +6,6 @@ I'm a fullstack engineer, content creator and passionate about technology and sh
 
 <div align="center">
   <a href="https://github.com/danielaschutt">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielaschutt&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielaschutt&layout=compact&langs_count=7&&theme=prussian"/>
 </div>
 
