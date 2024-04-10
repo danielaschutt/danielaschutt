@@ -1,4 +1,4 @@
-![Daniela's GitHub Banner](./assets/banner.png)
+
 #
 Hey,
 
